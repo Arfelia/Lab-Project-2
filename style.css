@@ -1,0 +1,11 @@
+.low-price {
+    background-color: #d4edda; /* зеленый для низкой цены */
+  }
+  
+  .mid-price {
+    background-color: #fff3cd; /* желтый для средней цены */
+  }
+  
+  .high-price {
+    background-color: #f8d7da; /* красный для высокой цены */
+  }
